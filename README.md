@@ -1,8 +1,8 @@
 ### fiche de presentation
 
-Nom: Yann
+Nom:  Fehr-Barbanchon
 
-Prénom: Fehr-Barbanchon
+Prénom: yann
 
 Classe: 1G1
 
